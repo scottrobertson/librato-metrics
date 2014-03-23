@@ -1,0 +1,12 @@
+{
+  "name" : "scottrobertson/librato-metrics",
+  "require": {
+      "guzzlehttp/guzzle": "4.0.0-rc.1"
+  },
+  "autoload" : {
+    "psr-0" : {
+      "" : "src/"
+    }
+  },
+  "minimum-stability" : "dev"
+}
